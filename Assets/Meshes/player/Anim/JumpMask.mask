@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: JumpMask
+  m_Mask: 00000000000000000000000001000000010000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/Base
+    m_Weight: 1
+  - m_Path: Armature/Base/ArmControl.L
+    m_Weight: 1
+  - m_Path: Armature/Base/ArmControl.L/ArmControl.L_end
+    m_Weight: 1
+  - m_Path: Armature/Base/ArmControl.R
+    m_Weight: 1
+  - m_Path: Armature/Base/ArmControl.R/ArmControl.R_end
+    m_Weight: 1
+  - m_Path: Armature/Base/FootControl.L
+    m_Weight: 1
+  - m_Path: Armature/Base/FootControl.L/KneeTarget.L
+    m_Weight: 1
+  - m_Path: Armature/Base/FootControl.L/KneeTarget.L/KneeTarget.L_end
+    m_Weight: 1
+  - m_Path: Armature/Base/FootControl.R
+    m_Weight: 1
+  - m_Path: Armature/Base/FootControl.R/KneeTarget.R
+    m_Weight: 1
+  - m_Path: Armature/Base/FootControl.R/KneeTarget.R/KneeTarget.R_end
+    m_Weight: 1
+  - m_Path: Armature/Base/Root
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Arm.L
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Arm.L/ForeArn.L
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Arm.L/ForeArn.L/Hand.L
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Arm.L/ForeArn.L/Hand.L/Hand.L_end
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Arm.R
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Arm.R/ForeArn.R
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Arm.R/ForeArn.R/Hand.R
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Arm.R/ForeArn.R/Hand.R/Hand.R_end
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Arm.R/ForeArn.R/Prop
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Arm.R/ForeArn.R/Prop/Prop_end
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Chest
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Chest/ArmTarget.L
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Chest/ArmTarget.L/ArmTarget.L_end
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Chest/ArmTarget.R
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Chest/ArmTarget.R/ArmTarget.R_end
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Chest/Neck
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/Hip/Chest/Neck/Head/Head_end
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/UpperLeg.L
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/UpperLeg.L/Knee.L
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/UpperLeg.L/Knee.L/Foot.L
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/UpperLeg.L/Knee.L/Foot.L/Foot.L_end
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/UpperLeg.R
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/UpperLeg.R/Knee.R
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/UpperLeg.R/Knee.R/Foot.R
+    m_Weight: 1
+  - m_Path: Armature/Base/Root/UpperLeg.R/Knee.R/Foot.R/Foot.R_end
+    m_Weight: 1
+  - m_Path: Cube
+    m_Weight: 1
